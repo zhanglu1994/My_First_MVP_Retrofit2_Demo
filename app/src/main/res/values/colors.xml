@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="main_leftmenu_radio_line">#2e323d</color>
+    <color name="colorPrimaryDark">#2e323d</color>
+    <color name="colorPrimary">#2e323d</color>
+    <color name="colorAccent">#2e323d</color>
+    <color name="common_bg">#FFFFFF</color>
+    <color name="search_bg">#E5E5E3</color>
+    <color name="darkgrey">#ff404040</color>
+    <color name="darkgray">#696969</color>
+    <!--     <color name="common_bg">#F5F1E6</color> -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="full_transparent">#00000000</color>
+    <color name="login_tv_n">#969595</color>
+    <color name="login_tv_p">#B1B0B0</color>
+    <color name="common_item_p">#E4E4E4</color>
+    <color name="menu_divider">#242528</color>
+    <color name="blue">#C2D5FC</color>
+    <color name="sort_popup_text_color_n">#777C7F</color>
+    <color name="sort_popup_text_color_c">#BABABC</color>
+    <color name="sort_popup_item_bg_c">#52565A</color>
+    <color name="condition">#985B59</color>
+    <color name="company_address_p">#985B59</color>
+    <color name="company_address_n">#515251</color>
+    <color name="red_light">#ffff4444</color>
+    <color name="green_light">#ff99cc00</color>
+    <color name="orange_light">#ffffbb33</color>
+    <color name="blue_light">#ff33b5e5</color>
+    <color name="fragment_bg">#E7E7E7</color>
+
+    <color name="one_blue">#ff33b5e5</color>
+    <color name="two_blue">#ff6dcff3</color>
+    <color name="three_blue">#ffb9e2f1</color>
+
+    <color name="one_orange">#ffa500</color>
+    <color name="two_orange">#fcce79</color>
+    <color name="three_orange">#feebc9</color>
+
+    <color name="about_text_colors">#3d3d3d</color>
+
+    <!-- 招聘会背景颜色 -->
+    <color name="recruitment_title">#0066ff</color>
+    <color name="recruitment_tip_text">#d66845</color>
+    <color name="recruitment_item_background_grey">#f3f3f3</color>
+    <color name="recruitment_item_background_white">#FFFFFF</color>
+    <color name="recruitment_companylist_header_background">#cbecff</color>
+
+    <color name="recruitment_applypool_pop_grey">#f5f5f5</color>
+    <color name="recruitment_applypool_pop_white">#ffffff</color>
+    <color name="recruitment_applypool_pop_orange">#ff6501</color>
+    <color name="recruitment_applypool_pop_divier">#d9d9d9</color>
+
+    <!-- 按钮文字颜色 -->
+    <color name="common_button_text_grey">#717171</color>
+    <color name="common_button_text_blue">#2a9dd5</color>
+    <color name="common_button_text_white">#fff</color>
+
+    <!-- 对话框title文字颜色 -->
+    <color name="dialog_title_text">#5D616F</color>
+    <color name="dialog_title_bg">#FAFAFA</color>
+    <color name="dialog_border">#E2E3E3</color>
+    <color name="dialog_message">#7E818C</color>
+    <color name="dark_common_bg">#343843</color>
+    <color name="common_text">#3e3e3e</color>
+    <color name="common_gray_text">#979696</color>
+    <color name="common_hint">#b4b3b4</color>
+    <color name="common_item_bg_p">#0494df</color>
+    <color name="main_leftmenu_radio_c">#E2E2E2</color>
+    <color name="main_leftmenu_radio_n">#9da2aa</color>
+    <color name="common_input_text">#252424</color>
+    <color name="common_text_in_black_bg">#adacac</color>
+    <color name="list_item_recruit_name">#535454</color>
+    <color name="list_item_company_name">#646565</color>
+    <color name="list_item_orange">#FF6906</color>
+    <color name="list_item_loc">#646565</color>
+    <color name="list_item_regdate">#646565</color>
+    <color name="recruit_detail_recruit_name">#434447</color>
+    <color name="recruit_detail_label">#646565</color>
+    <color name="recruit_detail_content">#4c4d4d</color>
+    <color name="links_color_n">#9c0501</color>
+    <color name="links_color_p">#8c1918</color>
+    <color name="deep_blue">#4ccfdb</color>
+    <color name="map_address_text">#f5f1e7</color>
+    <color name="common_red">#E8504F</color>
+    <color name="common_title">#525252</color>
+    <color name="common_item">#A8A8A8</color>
+    <color name="common_deep_red">#BE2524</color>
+    <color name="common_blue">#01AEFF</color>
+    <color name="register_account_radio_color_n">#ffffff</color>
+    <color name="register_input_label">#252424</color>
+    <color name="register_input_text">#252424</color>
+    <color name="list_item_company_name_in_black_bg">#eeedee</color>
+    <color name="list_item_common_text_in_black_bg">#7f7e7f</color>
+    <color name="number_in_circle">#E5E5E5</color>
+    <color name="common_green">#68CB19</color>
+    <color name="common_dark">#D6D6D6</color>
+    <color name="header_side_textview_bg_p">#BF3636</color>
+    <color name="header_bg">#E03A3B</color>
+
+    <!-- qrcodeview -->
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="viewfinder_green">#95ff7c</color>
+    <color name="possible_result_points">#c0ffff00</color>
+
+    <!-- qrcode_encode_view -->
+    <color name="contents_text">#ff000000</color>
+    <color name="encode_view">#ffffffff</color>
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_points">#c099cc00</color> <!-- Android standard ICS color -->
+    <color name="result_text">#ffffffff</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="viewfinder_laser">#ffcc0000</color> <!-- Android standard ICS color -->
+
+
+    <!-- floatactionbutton -->
+    <color name="primary">#009688</color>
+    <color name="primary_pressed">#26a69a</color>
+    <!-- A light Holo shade of red -->
+    <color name="myfloat_red_light">#ffff4444</color>
+    <!-- A dark Holo shade of red -->
+    <color name="myfloat_red_drak">#ffe03a3b</color>
+
+    <color name="default_normal">#ff0099cc</color><!-- android.R.color.holo_blue_dark -->
+    <color name="default_pressed">#ff33b5e5</color><!-- android.R.color.holo_blue_light -->
+    <color name="default_disabled">#aaa</color><!-- android.R.color.darker_gray -->
+    <color name="black_semi_transparent">#B2000000</color>
+    <color name="half_black">#808080</color>
+    <color name="white_pressed">#f1f1f1</color>
+    <color name="pink">#e91e63</color>
+    <color name="pink_pressed">#ec407a</color>
+    <color name="blue_semi_transparent">#805677fc</color>
+    <color name="blue_semi_transparent_pressed">#80738ffe</color>
+
+
+    <!-- sweetAlertDialog -->
+    <color name="float_transparent">#66000000</color>
+    <color name="sweet_dialog_bg_color">#FFFFFF</color>
+    <color name="button_text_color">#FFFFFF</color>
+    <color name="gray_btn_bg_color">#D0D0D0</color>
+    <color name="gray_btn_bg_pressed_color">#B6B6B6</color>
+    <color name="blue_btn_bg_color">#AEDEF4</color>
+    <color name="blue_btn_bg_pressed_color">#96BFD2</color>
+    <color name="red_btn_bg_color">#DD6B55</color>
+    <color name="red_btn_bg_pressed_color">#CD5B55</color>
+    <color name="error_stroke_color">#F27474</color>
+    <color name="success_stroke_color">#A5DC86</color>
+    <color name="trans_success_stroke_color">#33A5DC86</color>
+    <color name="warning_stroke_color">#F8BB86</color>
+
+    <!-- pinnedHeaderExpandListView -->
+    <color name="Grey">#BEBEBE</color>
+    <color name="LightGray">#D3D3D3</color>
+    <color name="lucensy">#00000001</color>
+    <color name="translucency">#e0000000</color>
+    <color name="orange">#ffa500</color>
+    <color name="light_orange">#fcb75c</color>
+    <!-- <color name="red">#bf242a</color> -->
+    <color name="alpha_00">#00000000</color>
+    <color name="trans">#50000000</color>
+    <color name="red">#fe0202</color>
+    <color name="background">#e5e5e5</color>
+    <color name="transparent_background">#50000000</color>
+
+    <!-- drop down list header font color -->
+    <color name="drop_down_list_header_font_color">#000000</color>
+    <!-- drop down list header second font color -->
+    <color name="drop_down_list_header_second_font_color">#000000</color>
+    <!-- drop down list footer font color -->
+    <color name="drop_down_list_footer_font_color">#000000</color>
+
+    <!-- droptab -->
+    <color name="accent">#40C4FF</color>
+
+    <color name="thumbColor">#66aaaaaa</color>
+
+    <color name="ldrawer_color">#FFFFFF</color>
+
+    <color name="chat_bg">#efefef</color>
+</resources>
